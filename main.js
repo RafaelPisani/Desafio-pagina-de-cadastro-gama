@@ -1,5 +1,3 @@
-main
-
 
 function controleformproduto() {
     var form = document.getElementById("formproduct")
